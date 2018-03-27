@@ -1,0 +1,24 @@
+Version 0.1
+
+Keyboard events =========================
+
+ - When "P" is pressed the game is paused.
+ - When "R" is pressed the game is restarted. Must have a confirmation.
+ - When "Esc" is pressed the game the game should end. Must have a confirmation.
+ - When Left and right keys the spaceship rotates.
+ - When Up key is pressed, the engine it's speed up to the axis's direction.
+
+Screen features =========================
+
+ - HUD showing height, speed and aceleration of the player.
+ - Textures.
+	- Spaceship texture. (Choosen)
+	- Backgroung texture. (Choosen)
+	- Sun texture. (Choosen)
+	- Sea texture.	(Choosen)
+
+Gameplay features =======================
+
+ - Fisics of gravity.
+ - Aceleration of the engine.
+ - Rotation of the spaceship.
