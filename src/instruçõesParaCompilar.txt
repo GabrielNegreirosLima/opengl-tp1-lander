@@ -1,0 +1,5 @@
+#para compilar no terminal linux é necessário incluir os nomes dos arquivos.c cujos arquivos.h estão referenciados no programa principal
+
+gcc mainN.c ./funcoes/vetor/vetor.c -o main.exe -lSOIL -lglut -lGL -lGLEW -lGLU -lm
+
+onde ./funcoes/vetor/vetor.c é o caminho onde está o arquivo.c
