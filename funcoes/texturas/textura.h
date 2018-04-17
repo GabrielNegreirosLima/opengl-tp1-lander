@@ -1,0 +1,4 @@
+
+float iniciarTextura(char *nomeTextura);
+	
+
